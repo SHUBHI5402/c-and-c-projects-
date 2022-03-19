@@ -6,6 +6,7 @@ using namespace std;
 void rules();
 int main()
 {
+
     string playerName;
     int Balance; // stores player's balance
     int bettingAmount;
